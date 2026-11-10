@@ -2,6 +2,7 @@
 // Example format:
 
 const siteDB = [
+  {name:"GlobalBaseCombat",url:"https://www.globalbasecombat.com/"},
   {name:"1v1.lol",url:"https://1v1.lol/",icon:"https://1v1.lol/favicon.ico"},
 {name:"Agar.io",url:"https://agar.io/?iframe=1",icon:"https://agar.io/favicon.ico"},
 {name:"Airmash",url:"https://airmash.online/?embed",icon:"https://airmash.online/favicon.ico"},
